@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-189&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=dark)](https://github.com/yash-189/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-189)](https://github.com/yash-189/github-readme-stats)
