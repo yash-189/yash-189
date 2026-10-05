@@ -51,9 +51,3 @@ I like working closely with design and backend to make sure features are well th
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-189&show_icons=true&hide=contribs,prs&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-189&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
