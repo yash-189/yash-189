@@ -18,10 +18,10 @@ I'm frontend-focused, with experience building cross-platform apps and working a
 
 ### 🎯 Focus areas
 
-- **Scalable frontend architecture** — feature-based modules, reusable components and custom hooks
-- **Server state & data flows** — React Query, caching, pagination and synchronization
-- **Performance** — code splitting, lazy loading and render optimization
-- **Product UI** — turning complex workflows into clear, responsive interfaces
+- Frontend architecture with feature-based modules, reusable components and custom hooks
+- Server state and data flows with React Query: caching, pagination and sync
+- Performance work like code splitting, lazy loading and render optimization
+- Turning complex workflows into clear, responsive interfaces
 
 ### 🧑‍💻 How I work
 
